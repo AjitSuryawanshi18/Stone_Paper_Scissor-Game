@@ -1,0 +1,44 @@
+*{
+    text-align: center;
+    margin-top: 5vh;
+    font-size: 40px;
+    font-style: italic;
+    font-weight: bolder;
+    background-color:cyan;
+   
+}
+.info{
+    margin-top: 1vh;
+}
+#input{
+    background-color: white;
+    border-radius: 5vw;
+}
+#check{
+    text-align: center;
+background-color: yellow;
+color: black;
+width: 25vw;
+border-radius: 5vw;
+}
+.playagain{
+    margin-top: 1vh;
+text-align: center;
+background-color:chartreuse;
+color: black;
+width: 25vw;
+border-radius: 5vw;
+
+}
+#check:hover{
+    cursor: pointer;
+    background-color: pink;
+}
+.playagain:hover{
+    cursor: pointer;
+    background-color: green;
+}
+#resultdisplay1{
+    border-radius: 3vw;
+    height: 7vh;
+}
